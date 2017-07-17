@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tube()
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=java.awt.Rectangle\ getUpRect()
+comment3.params=
+comment3.target=java.awt.Rectangle\ getDownRect()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics2D)
+comment5.params=
+comment5.target=void\ move()
+numComments=6
